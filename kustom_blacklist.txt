@@ -1,9 +1,9 @@
 # Kustom Blacklist
 
 # Images
-35.196.196.42 deviantart.com
-35.196.196.42 pinterest.com
-35.196.196.42 instagram.com
+104.27.185.216 deviantart.com
+nofap.com pinterest.com
+emergency.nofap.com instagram.com
 35.196.196.42 shutterstock.com
 35.196.196.42 fotolia.com
 35.196.196.42 dreamstime.com
