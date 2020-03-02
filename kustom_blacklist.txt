@@ -1,4 +1,4 @@
-# Kustom Blacklist - redirect to Google
+# Kustom Blacklist - redirect to OpenDNS
 
 # Images
 146.112.62.105 deviantart.com
