@@ -1,0 +1,45 @@
+# Kustom Blacklist - redirect to Google
+
+# Images
+216.239.38.120 deviantart.com
+216.239.38.120 pinterest.com
+216.239.38.120 instagram.com
+216.239.38.120 shutterstock.com
+216.239.38.120 fotolia.com
+216.239.38.120 dreamstime.com
+216.239.38.120 gettyimages.com
+216.239.38.120 istockphoto.com
+216.239.38.120 stocksy.com
+216.239.38.120 crestock.com
+216.239.38.120 123rf.com
+216.239.38.120 picsart.com
+216.239.38.120 500px.com
+216.239.38.120 flickr.com
+216.239.38.120 alamy.com
+216.239.38.120 bigstockphoto.com
+216.239.38.120 depositphotos.com
+
+# Videos
+216.239.38.120 snahp.it
+216.239.38.120 pahe.in
+216.239.38.120 kissasian.sh
+216.239.38.120 kissanime.ru
+216.239.38.120 www9.123movies.fun
+216.239.38.120 4anime.to
+216.239.38.120 9anime.to
+
+# P*rn
+216.239.38.120 fenta.net
+216.239.38.120 umei.fun
+216.239.38.120 everia.club
+216.239.38.120 passion-nippones.eklablog.net
+216.239.38.120 cosplay-toriko.com
+216.239.38.120 eromusou.blogo.jp
+216.239.38.120 xidolgirls.blogspot.com
+216.239.38.120 2ji3jieropicture.blog.fc2.com
+216.239.38.120 etude000.blog.fc2.com
+216.239.38.120 g4sky.net
+216.239.38.120 thechive.com
+216.239.38.120 iav77.com
+216.239.38.120 thebeautyleague1.blogspot.com
+216.239.38.120 photo.langvui.net
