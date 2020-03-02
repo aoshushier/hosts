@@ -1,0 +1,5 @@
+# Kustom Blacklist
+0.0.0.0 pinterest.com
+0.0.0.0 fenta.net
+0.0.0.0 umei.fun
+0.0.0.0 everia.club
