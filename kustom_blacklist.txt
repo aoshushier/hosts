@@ -4,7 +4,7 @@
 146.112.62.105 deviantart.com
 146.112.62.105 pinterest.com
 146.112.62.105 www.pinterest.com
-146.112.62.105 instagram.com
+!146.112.62.105 instagram.com
 146.112.62.105 shutterstock.com
 146.112.62.105 fotolia.com
 146.112.62.105 dreamstime.com
