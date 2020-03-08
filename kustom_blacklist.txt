@@ -19,6 +19,20 @@
 146.112.62.105 alamy.com
 146.112.62.105 bigstockphoto.com
 146.112.62.105 depositphotos.com
+146.112.62.105 www.shutterstock.com
+146.112.62.105 www.fotolia.com
+146.112.62.105 www.dreamstime.com
+146.112.62.105 www.gettyimages.com
+146.112.62.105 www.istockphoto.com
+146.112.62.105 www.stocksy.com
+146.112.62.105 www.crestock.com
+146.112.62.105 www.123rf.com
+146.112.62.105 www.picsart.com
+146.112.62.105 www.500px.com
+146.112.62.105 www.flickr.com
+146.112.62.105 www.alamy.com
+146.112.62.105 www.bigstockphoto.com
+146.112.62.105 www.depositphotos.com
 
 # Videos
 146.112.62.105 snahp.it
