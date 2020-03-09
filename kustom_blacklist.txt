@@ -1,3 +1,6 @@
+# Whitelist
+54.164.232.108 trackcmp.net
+
 # Kustom Blacklist - redirect to OpenDNS
 
 # Images
