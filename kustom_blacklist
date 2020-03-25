@@ -10,6 +10,38 @@
 
 # Kustom Blacklist
 
+# Social - TikTok
+www.tiktok.com
+api-h2.tiktokv.com
+api.tiktokv.com
+ib.tiktokv.com
+m.tiktok.com
+ns-1475.awsdns-56.org
+ns-1574.awsdns-04.co.uk
+ns-440.awsdns-55.com
+ns-722.awsdns-26.net
+p16-tiktokcdn-com.akamaized.net
+t.tiktok.com
+tiktok.com
+tiktok.org
+tiktokcdn-com.akamaized.net
+tiktokcdn.com
+tiktokv.com
+v16-tiktokcdn-com.akamaized.net
+v16.tiktokcdn.com
+vt.tiktok.com
+v19.tiktokcdn.com
+mon.tiktokv.com
+
+v16a.tiktokcdn.com
+log.tiktokv.com
+v16m.tiktokcdn.com
+mon.musical.ly
+api2-16-h2.musical.ly
+api2.musical.ly
+log2.musical.ly
+api2-21-h2.musical.ly
+
 # Images
 0.0.0.0 deviantart.com
 0.0.0.0 pinterest.com
