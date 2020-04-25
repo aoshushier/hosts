@@ -102,6 +102,7 @@
 0.0.0.0 live.staticflickr.com
 
 # Videos
+!0.0.0.0 avistaz.to
 0.0.0.0 www.dailymotion.com
 0.0.0.0 dailymotion.com
 0.0.0.0 snahp.it
@@ -123,7 +124,6 @@
 0.0.0.0 kissanime.ru.com
 0.0.0.0 kissanime.monster
 0.0.0.0 kissanime.vip
-0.0.0.0 avistaz.to
 0.0.0.0 kissasian.la
 0.0.0.0 kissasian.ch
 0.0.0.0 kissasian.com
