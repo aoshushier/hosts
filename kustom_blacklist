@@ -20,7 +20,7 @@
 0.0.0.0 deviantart.com
 0.0.0.0 pinterest.com
 0.0.0.0 www.pinterest.com
-!0.0.0.0 instagram.com
+#0.0.0.0 instagram.com
 0.0.0.0 shutterstock.com
 0.0.0.0 image.shutterstock.com
 0.0.0.0 fotolia.com
@@ -102,7 +102,7 @@
 0.0.0.0 live.staticflickr.com
 
 # Videos
-!0.0.0.0 avistaz.to
+#0.0.0.0 avistaz.to
 0.0.0.0 www.dailymotion.com
 0.0.0.0 dailymotion.com
 0.0.0.0 snahp.it
