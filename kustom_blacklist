@@ -1,17 +1,4 @@
-# Whitelist for StevenBlack's list
-
-# email newsletter links (Mark Manson and another)
-3.223.123.216 trackcmp.net
-
-# JK Emezi emails
-#?.?.?.? app.getresponse.com
-
-# Intercom in TokenTax
-13.224.15.82 cdn.segment.com
-
-# RoamResearch
-35.201.97.85 s-usc1c-nss-262.firebaseio.com
-52.39.143.152 api.segment.io
+# Kustom Blacklist
 
 # anjsub.com
 #0.0.0.0 track.cloudonestats.com
@@ -31,10 +18,6 @@
 #0.0.0.0 www.mackeeper.com
 #0.0.0.0 alwsbnvialll.com
 #0.0.0.0 www.alwsbnvialll.com
-
-
-
-# Kustom Blacklist
 
 # Images
 0.0.0.0 deviantart.com
