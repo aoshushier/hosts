@@ -46,11 +46,11 @@
 0.0.0.0 farm2.static.flickr.com
 0.0.0.0 farm3.static.flickr.com
 0.0.0.0 farm4.static.flickr.com
-0.0.0.0 farm5.staticflickr.com
-0.0.0.0 farm6.staticflickr.com
-0.0.0.0 farm7.staticflickr.com
-0.0.0.0 farm8.staticflickr.com
-0.0.0.0 farm9.staticflickr.com
+0.0.0.0 farm5.static.flickr.com
+0.0.0.0 farm6.static.flickr.com
+0.0.0.0 farm7.static.flickr.com
+0.0.0.0 farm8.static.flickr.com
+0.0.0.0 farm9.static.flickr.com
 0.0.0.0 alamy.com
 0.0.0.0 c0.alamy.com
 0.0.0.0 c1.alamy.com
@@ -129,6 +129,17 @@
 0.0.0.0 static4.bigstockphoto.com
 0.0.0.0 imgpile.com
 0.0.0.0 videohive.net
+0.0.0.0 www.freepik.com
+0.0.0.0 freepik.com
+0.0.0.0 img.freepik.com
+0.0.0.0 previews.agefotostock.com
+0.0.0.0 elements.envato.com
+0.0.0.0 www.envato.com
+0.0.0.0 envato.com
+0.0.0.0 wallhaven.cc
+0.0.0.0 media.gettyimages.com
+0.0.0.0 www.myfavwallpaper.com
+0.0.0.0 myfavwallpaper.com
 
 # Videos
 #0.0.0.0 avistaz.to
@@ -1162,44 +1173,101 @@
 0.0.0.0 fc2sp.net
 0.0.0.0 www.kunzt.gallery
 0.0.0.0 kunzt.gallery
-kboukn.blog.fc2.com
-ma02180524.blog.fc2.com
-entersandmanenter.blog.fc2.com
-legdoll.blog.fc2.com
-harrypotcher.blog.fc2.com
-letsgochika.jp
-kuromarierodouga.blog.fc2.com
-rosyutudiary.blog.fc2.com
-sayaworld864.blog.fc2.com
-osorakuheionnahibi2.blog.fc2.com
-kaedeannex.blog.fc2.com
-kumasandaisukisuki.blog.fc2.com
-cook01.blog.fc2.com
-yagaidehadaka.blog.fc2.com
-indumaren.blog10.fc2.com
-purinrea.blog34.fc2.com
-sakurakikaku-dl.com
-leaked.jp
-chako1015.blog74.fc2.com
-blog-imgs-79-origin.fc2.com
-blog-imgs-64-origin.fc2.com
-blackdiamondmania.blog96.fc2.com
-jkfuufu.blog.fc2.com
-iht74imwz0zk.blog.fc2.com
-blackdiamondmania.blog96.fc2.com
-queenai104.blog50.fc2.com
-happyladysociety.blog.fc2.com
-piemarco.blog.fc2.com
-adbg.blog119.fc2.com
-xslist.org
-jav.tips
-beautyptt.cc
-www.ptt.cc
-eroeroboobs.com
-www.daohangmiao.com
-daohangmiao.com
-watchjavidol.com
-nm.nmcsym.org
-www.syd369.com
-syd369.com
-itweixinqq.info
+0.0.0.0 ilarge.lisimg.com
+0.0.0.0 ilektrosok.blogspot.com
+0.0.0.0 worldbeautygirl.pixnet.net
+0.0.0.0 easywinbooks198.pixnet.net
+0.0.0.0 www.micmicidol.com
+0.0.0.0 micmicidol.com
+0.0.0.0 chooinkya.blog.jp
+0.0.0.0 geino2news.seesaa.net
+0.0.0.0 5ch-echiechi.doorblog.jp
+0.0.0.0 erochannelreiwa.livedoor.blog
+0.0.0.0 kinky434.rssing.com
+0.0.0.0 momi5.momi3.net
+0.0.0.0 tabola.net
+0.0.0.0 passion.cuongdc.co
+0.0.0.0 pikabu.ru
+0.0.0.0 sibfun.ru
+0.0.0.0 www.liveinternet.ru
+0.0.0.0 liveinternet.ru
+0.0.0.0 hollowa.i-broker.su
+0.0.0.0 girlschannel.net
+0.0.0.0 asian.pink
+0.0.0.0 xviet.net
+0.0.0.0 linkhay.com
+0.0.0.0 kieunuviet.info
+0.0.0.0 vikool.org
+0.0.0.0 xagian.net
+0.0.0.0 massagerepublic.com
+0.0.0.0 locomotoroblog.wordpress.com
+0.0.0.0 dubnitskiy.com
+0.0.0.0 www.hoixuan.biz
+0.0.0.0 hoixuan.biz
+0.0.0.0 adokcheon.blogspot.com
+0.0.0.0 zen.yandex.ru
+0.0.0.0 sivator.com
+0.0.0.0 www.areopago.eu
+0.0.0.0 areopago.eu
+0.0.0.0 nguhuart2013.blogspot.com
+0.0.0.0 bapte.eu
+0.0.0.0 tuanart0.blogspot.com
+0.0.0.0 iloveav.tistory.com
+0.0.0.0 icaoav.com
+0.0.0.0 www.jiaoshow.com
+0.0.0.0 jiaoshow.com
+0.0.0.0 gifsf.com
+0.0.0.0 www.daohangmiao.com
+0.0.0.0 daohangmiao.com
+0.0.0.0 www.higirl.tk
+0.0.0.0 higirl.tk
+0.0.0.0 eroeroboobs.com
+0.0.0.0 www.eroeroboobs.com
+0.0.0.0 2cph.org
+0.0.0.0 picclick.it
+0.0.0.0 365853.xyz
+0.0.0.0 www.zhainanmao.la
+0.0.0.0 www.40802.com
+0.0.0.0 40802.com
+0.0.0.0 597ff.com
+0.0.0.0 www.597ff.com
+0.0.0.0 kboukn.blog.fc2.com
+0.0.0.0 ma02180524.blog.fc2.com
+0.0.0.0 entersandmanenter.blog.fc2.com
+0.0.0.0 legdoll.blog.fc2.com
+0.0.0.0 harrypotcher.blog.fc2.com
+0.0.0.0 letsgochika.jp
+0.0.0.0 kuromarierodouga.blog.fc2.com
+0.0.0.0 rosyutudiary.blog.fc2.com
+0.0.0.0 sayaworld864.blog.fc2.com
+0.0.0.0 osorakuheionnahibi2.blog.fc2.com
+0.0.0.0 kaedeannex.blog.fc2.com
+0.0.0.0 kumasandaisukisuki.blog.fc2.com
+0.0.0.0 cook01.blog.fc2.com
+0.0.0.0 yagaidehadaka.blog.fc2.com
+0.0.0.0 indumaren.blog10.fc2.com
+0.0.0.0 purinrea.blog34.fc2.com
+0.0.0.0 sakurakikaku-dl.com
+0.0.0.0 leaked.jp
+0.0.0.0 chako1015.blog74.fc2.com
+0.0.0.0 blog-imgs-79-origin.fc2.com
+0.0.0.0 blog-imgs-64-origin.fc2.com
+0.0.0.0 blackdiamondmania.blog96.fc2.com
+0.0.0.0 jkfuufu.blog.fc2.com
+0.0.0.0 iht74imwz0zk.blog.fc2.com
+0.0.0.0 blackdiamondmania.blog96.fc2.com
+0.0.0.0 queenai104.blog50.fc2.com
+0.0.0.0 happyladysociety.blog.fc2.com
+0.0.0.0 piemarco.blog.fc2.com
+0.0.0.0 adbg.blog119.fc2.com
+0.0.0.0 xslist.org
+0.0.0.0 jav.tips
+0.0.0.0 beautyptt.cc
+0.0.0.0 www.ptt.cc
+0.0.0.0 www.daohangmiao.com
+0.0.0.0 daohangmiao.com
+0.0.0.0 watchjavidol.com
+0.0.0.0 nm.nmcsym.org
+0.0.0.0 www.syd369.com
+0.0.0.0 syd369.com
+0.0.0.0 itweixinqq.info
