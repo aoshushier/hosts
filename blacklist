@@ -145,6 +145,8 @@
 0.0.0.0 fscomps.fotosearch.com
 0.0.0.0 dissolve.com
 0.0.0.0 cdn7.dissolve.com
+0.0.0.0 www.artstation.com
+0.0.0.0 artstation.com
 
 # Blogsites (that host porn)
 0.0.0.0 blogspot.com
