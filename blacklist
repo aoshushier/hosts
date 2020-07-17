@@ -1,5 +1,8 @@
 # Blacklist
 
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+
 # anjsub.com
 #0.0.0.0 track.cloudonestats.com
 #0.0.0.0 cloudonestats.com
