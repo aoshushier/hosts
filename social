@@ -284,6 +284,7 @@
 0.0.0.0 www.pinterest.com.gslb.pinterest.com
 0.0.0.0 www.pinterest.fr
 0.0.0.0 www.pinterest.jp
+0.0.0.0 in.pinterest.com
 
 # Tumblr
 0.0.0.0 24.media.tumblr.com
@@ -293,6 +294,7 @@
 0.0.0.0 37.media.tumblr.com
 0.0.0.0 38.media.tumblr.com
 0.0.0.0 40.media.tumblr.com
+0.0.0.0 64.media.tumblr.com
 0.0.0.0 66.media.tumblr.com
 0.0.0.0 67.media.tumblr.com
 0.0.0.0 68.media.tumblr.com
