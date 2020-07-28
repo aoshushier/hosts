@@ -1,7 +1,28 @@
+
+# Search engines
+0.0.0.0 bing.com
+0.0.0.0 www.bing.com
+0.0.0.0 www2.bing.com
+0.0.0.0 www3.bing.com
+0.0.0.0 search.yahoo.com
+0.0.0.0 images.search.yahoo.com
+0.0.0.0 video.search.yahoo.com
+0.0.0.0 search.yahoo.co.jp
+0.0.0.0 www.startpage.com
+0.0.0.0 startpage.com
+0.0.0.0 duckduckgo.com
+0.0.0.0 yandex.ru
+0.0.0.0 yandex.ua
+0.0.0.0 yandex.by
+0.0.0.0 yandex.kz
+0.0.0.0 yandex.uz
+0.0.0.0 yandex.com.tr
+
+
 # Force Bing safe search
-204.79.197.220 www.bing.com bing.com
-204.79.197.220 www2.bing.com
-204.79.197.220 www3.bing.com
+#204.79.197.220 www.bing.com bing.com
+#204.79.197.220 www2.bing.com
+#204.79.197.220 www3.bing.com
 
 # Force Google safe search
 216.239.38.120 google.com
@@ -390,19 +411,3 @@
 216.239.38.120 www.google.co.zw
 216.239.38.120 google.cat
 216.239.38.120 www.google.cat
-
-# Search engines
-0.0.0.0 www.bing.com
-0.0.0.0 search.yahoo.com
-0.0.0.0 images.search.yahoo.com
-0.0.0.0 video.search.yahoo.com
-0.0.0.0 search.yahoo.co.jp
-0.0.0.0 www.startpage.com
-0.0.0.0 startpage.com
-0.0.0.0 duckduckgo.com
-0.0.0.0 yandex.ru
-0.0.0.0 yandex.ua
-0.0.0.0 yandex.by
-0.0.0.0 yandex.kz
-0.0.0.0 yandex.uz
-0.0.0.0 yandex.com.tr
