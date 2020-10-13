@@ -20,7 +20,7 @@
 #0.0.0.0 www.alwsbnvialll.com
 
 # Images
-0.0.0.0 deviantart.com
+#0.0.0.0 deviantart.com www.deviantart.com
 0.0.0.0 pinterest.com
 0.0.0.0 www.pinterest.com
 #0.0.0.0 instagram.com
@@ -80,8 +80,6 @@
 0.0.0.0 www.123rf.com
 0.0.0.0 www.picsart.com
 0.0.0.0 www.500px.com
-0.0.0.0 deviantart.com
-0.0.0.0 www.deviantart.com
 0.0.0.0 www.flickr.com
 0.0.0.0 www.alamy.com
 0.0.0.0 www.bigstockphoto.com
