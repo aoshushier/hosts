@@ -156,6 +156,12 @@
 0.0.0.0 jp.123rf.com
 0.0.0.0 es.123rf.com
 0.0.0.0 kr.123rf.com
+0.0.0.0 eyeem.com
+0.0.0.0 www.eyeem.com
+0.0.0.0 cdn1.eyeem.com
+0.0.0.0 cdn2.eyeem.com
+0.0.0.0 cdn3.eyeem.com
+0.0.0.0 cdn4.eyeem.com
 
 # Blogsites (that host porn)
 0.0.0.0 blogspot.com
@@ -2517,3 +2523,7 @@
 0.0.0.0 zaihonews.blog.jp
 0.0.0.0 uboyno.ru
 0.0.0.0 cospixy.com
+0.0.0.0 th.whotwi.com
+0.0.0.0 image.dhgate.com
+0.0.0.0 www.bestfunnypic.com
+0.0.0.0 bestfunnypic.com
