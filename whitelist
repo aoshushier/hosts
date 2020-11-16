@@ -9,6 +9,12 @@
 # Intercom in TokenTax
 13.224.15.82 cdn.segment.com
 
+# [segment.com]
+44.237.112.141 app.segment.com
+
+# [segment.io]
+65.8.229.17 cdn.segment.io
+
 # RoamResearch
 35.201.97.85 s-usc1c-nss-262.firebaseio.com
 52.39.143.152 api.segment.io
