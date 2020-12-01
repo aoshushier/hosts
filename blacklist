@@ -1,5 +1,8 @@
 # Blacklist
 
+# Fake News
+0.0.0.0 coingeek.com
+
 # anjsub.com
 #0.0.0.0 track.cloudonestats.com
 #0.0.0.0 cloudonestats.com
