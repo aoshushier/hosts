@@ -17,7 +17,13 @@
 0.0.0.0 yandex.kz
 0.0.0.0 yandex.uz
 0.0.0.0 yandex.com.tr
-
+0.0.0.0 yandex.com
+0.0.0.0 swisscows.com
+0.0.0.0 www.searchencrypt.com
+0.0.0.0 searchencrypt.com
+0.0.0.0 gibiru.com
+0.0.0.0 www.onesearch.com
+0.0.0.0 onesearch.com
 
 # Force Bing safe search
 #204.79.197.220 www.bing.com bing.com
