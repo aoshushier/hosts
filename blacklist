@@ -261,11 +261,11 @@
 0.0.0.0 slither.io
 
 # Blogsites (that host porn)
-0.0.0.0 i0.wp.com
-0.0.0.0 i1.wp.com
-0.0.0.0 i2.wp.com
-0.0.0.0 i3.wp.com
-0.0.0.0 i4.wp.com
+!0.0.0.0 i0.wp.com
+!0.0.0.0 i1.wp.com
+!0.0.0.0 i2.wp.com
+!0.0.0.0 i3.wp.com
+!0.0.0.0 i4.wp.com
 0.0.0.0 blogspot.com
 0.0.0.0 1.bp.blogspot.com
 0.0.0.0 2.bp.blogspot.com
