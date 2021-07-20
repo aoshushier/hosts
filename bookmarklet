@@ -1,0 +1,14 @@
+function listener(e) {
+    e.clipboardData.setData("text/plain", location.hostname + '\n')
+    e.preventDefault()
+}
+
+document.addEventListener("copy", listener)
+
+try {
+    document.execCommand("copy")
+} catch (e) {
+    console.log("Copy failed.", e)
+} finally {
+    document.removeEventListener("copy", listener)
+}
