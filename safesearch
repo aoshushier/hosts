@@ -25,6 +25,12 @@
 0.0.0.0 www.onesearch.com
 0.0.0.0 onesearch.com
 0.0.0.0 same.energy
+0.0.0.0 www.ecosia.org
+0.0.0.0 ekoru.org
+0.0.0.0 www.givewater.com
+0.0.0.0 boardreader.com
+0.0.0.0 www.wiki.com
+0.0.0.0 search.creativecommons.org
 
 # Force Bing safe search
 #204.79.197.220 www.bing.com bing.com
