@@ -1,10 +1,5 @@
 # Blacklist Full
 
-# Fake News
-0.0.0.0 coingeek.com
-0.0.0.0 zerohedge.com
-0.0.0.0 www.zerohedge.com
-
 # anjsub.com
 #0.0.0.0 track.cloudonestats.com
 #0.0.0.0 cloudonestats.com
@@ -23,6 +18,11 @@
 #0.0.0.0 www.mackeeper.com
 #0.0.0.0 alwsbnvialll.com
 #0.0.0.0 www.alwsbnvialll.com
+
+# Fake News
+0.0.0.0 coingeek.com
+0.0.0.0 zerohedge.com
+0.0.0.0 www.zerohedge.com
 
 # Images
 #0.0.0.0 deviantart.com
@@ -4061,3 +4061,6 @@
 0.0.0.0 www.berrydog.com
 0.0.0.0 www.gracequeens.com
 0.0.0.0 www.roundtheclockmall.com
+0.0.0.0 blog.xuite.net
+0.0.0.0 mysnap.top
+0.0.0.0 www.furuke.com
