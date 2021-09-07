@@ -25,8 +25,8 @@
 0.0.0.0 www.zerohedge.com
 
 # Images
-#0.0.0.0 deviantart.com
-#0.0.0.0 www.deviantart.com
+0.0.0.0 deviantart.com
+0.0.0.0 www.deviantart.com
 0.0.0.0 pinterest.com
 0.0.0.0 www.pinterest.com
 0.0.0.0 shutterstock.com
